@@ -32,4 +32,4 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ya
 ☆ Espero te funcione ☆
 ```
 
-**By: [ Yael Hernandez ]**
+**Moded By: [ Yael Hernandez ]**
