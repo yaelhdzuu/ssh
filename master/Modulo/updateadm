@@ -64,5 +64,5 @@ cd $HOME
 [[ -d $HOME/update ]] && rm -rf $HOME/update
 [[ -e $HOME/lista ]] && rm $HOME/lista
 cd /root
-wget -O https://raw.githubusercontent.com/yaelhdzuu/ssh/ADM-MANAGER-MOD-BY-YAEL/master/lista -o /dev/null
+wget -O lista https://raw.githubusercontent.com/yaelhdzuu/ssh/ADM-MANAGER-MOD-BY-YAEL/master/lista -o /dev/null
 atualiza_fun
