@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo -e Version Actualizada
-echo -e Para volver a iniciar escriba menu
+echo -e Version Actualizada, Para volver a iniciar escriba menu
