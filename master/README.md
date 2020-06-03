@@ -8,9 +8,9 @@
 
 ## :heavy_exclamation_mark: Requerimientos
 
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
-* Recomendamos Ubuntu 14.04
-* Se recomienda usar una distro nueva o formatiada
+* Un sistema operativo basado en Linux (Ubuntu o Debian). 
+* Se recomienda una versión del sistema Ubuntu 14.04 o superior. 
+* Se recomienda usar una distro nueva o formateada. 
 
 ## Installation
 
@@ -32,4 +32,4 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ya
 ☆ Espero te funcione ☆
 ```
 
-**Moded By: [ Yael Hernandez ]**
+**Modded By: [ Yael Hernandez ]**
