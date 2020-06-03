@@ -21,7 +21,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ya
 ```
 * SIN MINERIA! 
 * SIN KEYS! 
-* VERSION UNICA 
+* VERSIÓN UNICA (Por el momento)
 * SIN VIRUS TROJANOS (BOTNET) 
 * ARCHIVOS LIBERADOS (DESENCRIPTADOS)
 ```
