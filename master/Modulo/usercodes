@@ -528,6 +528,7 @@ break
 fi
 done
 echo '</h8><font color="purple">By Yael Hernández</font></h8>' >> $local
+echo '</h8><font color="purple">Venta de droplets, con estabilidad al 100%, soporte 24/7, script para configurar vps (no necesita keys), usuarios vps y serves para uso personal o para revendedores.</font></h8>' >> $local
 echo '</h8><font color="purple">Contacto por Telegram https://t.me/yaelhdzuu</font></h8>' >> $local
 echo '<h1><font>=============================</font></h1>' >> $local
 if [ -e "$local2" ]; then
