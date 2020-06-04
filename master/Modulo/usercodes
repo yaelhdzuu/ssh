@@ -530,7 +530,7 @@ done
 echo '</h8><font color="red">By Yael Hernández</font></h8>' >> $local
 echo '</h8><font color="red">Contacto por Telegram https://t.me/yaelhdzuu</font></h8>' >> $local
 echo '<h1><font>=============================</font></h1>' >> $local
-echo '</h8><font color="blue">Venta de droplets, con estabilidad al 100%, soporte 24/7, script para configurar vps (no necesita keys), usuarios vps y serves para uso personal o para revendedores.</font></h8>' >> $local
+echo '</h8><font color="blue">Venta de droplets, con estabilidad al 100%, soporte 24/7, script para configurar vps (no necesita keys), usuarios vps y servers para uso personal o para revendedores.</font></h8>' >> $local
 echo '<h1><font>=============================</font></h1>' >> $local
 if [ -e "$local2" ]; then
 rm $local2  > /dev/null 2>&1
